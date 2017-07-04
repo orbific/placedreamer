@@ -1,2 +1,2 @@
-# placedreamer
-A simple Alexa app for describing interesting places
+# PlaceDreamer
+A simple skill to demonstrate Amazon's Alexa virtual assistant. It describes places using description, sound and images.

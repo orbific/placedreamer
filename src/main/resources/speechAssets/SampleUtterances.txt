@@ -1,0 +1,5 @@
+DescribePlaceIntent describe a place
+DescribePlaceIntent tell me about a place
+DescribePlaceIntent tell me about a somewhere
+DescribePlaceIntent describe a place to me
+DescribePlaceIntent describe a place for me
