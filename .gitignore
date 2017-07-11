@@ -4,6 +4,8 @@ build/
 
 # Eclipse files
 .project
+.classpath
+.settings
 
 # Compiled class file
 *.class
