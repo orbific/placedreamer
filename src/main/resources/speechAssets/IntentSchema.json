@@ -1,7 +1,28 @@
 {
   "intents": [
     {
-      "intent": "DescribePlaceIntent"
+      "name": "AMAZON.CancelIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.HelpIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.StopIntent",
+      "samples": []
+    },
+    {
+      "name": "DescribePlaceIntent",
+      "samples": [
+        "describe a place",
+        "tell me about a place",
+        "tell me about somewhere",
+        "describe a place to me",
+        "describe a place for me",
+        "tell me where i can go",
+        "where should i go"
+      ]
     }
   ]
 }
